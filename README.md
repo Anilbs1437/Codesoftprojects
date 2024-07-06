@@ -12,7 +12,6 @@ A simple calculator application that supports basic arithmetic operations: addit
 1. Clone the repository
 2. Run the `calculator.py` script
 ## Usage
-*python*
 python calculator.py
 
 
@@ -27,7 +26,6 @@ A to-do list application that allows users to manage their tasks effectively. Us
 1. Clone the repository
 2. Run the `todo_list.py` script
 ## Usage
-*python*
 python todo_list.py
 
 
@@ -41,7 +39,6 @@ A contact book application for storing and managing contact information. Users c
 1. Clone the repository
 2. Run the `contact_book.py` script
 ## Usage
-*python*
 python contact_book.py
 
 
@@ -55,7 +52,6 @@ A tool for generating secure, random passwords based on user-defined criteria. T
 1. Clone the repository
 2. Run the `password_generator.py` script
 ## Usage
-*python*
 python password_generator.py
 
 
@@ -70,7 +66,6 @@ A simple implementation of the classic rock-paper-scissors game where the user p
 2. Run the `rock_paper_scissors.py` script
 
 ## Usage
-*python*
 python rock_paper_scissors.py
 
 
